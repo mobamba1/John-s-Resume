@@ -7,11 +7,13 @@ John Dela Cruz
  kenneth1521412@gmail.com
  Github: github.com/mobamba1
  LinkedIn: www.linkedin.com/in/john-dela-cruz-6aab95197/
+
  Introduction:
  Withapassionforcoding,Ihavelearnedtosuccessfullyimplementitintomydailyroutine.Itwasthroughthis,Iunderstoodthelimitationsanddifficulties
  in implementingnewerversionstomyapplications.Thissparkedaninterestinstreamliningandautomatingnewbuilds,leadingmetopursueacareerin
  DevOps.IhavegainedpracticalexperienceatHomeOfficeaswellasVivaceallowingmetoapplytheskillsgainedattheQAAcademy.MytrainingwithQA
  consisted of 3projectsthatweretobecompletedwithafullCICDpipeline.
+ 
  Skills and Experience:
  QAConsulting:
  July 2020-October2023, Remote
@@ -19,9 +21,10 @@ John Dela Cruz
  Myhands-onexperienceattheHomeOfficeandVivacehasallowedmetoapplytheskillshonedatQADevOpsbootcamp.Duringthistraining,I
  successfully deployed multiple applications with a comprehensiveCICDpipeline.Thissetupensuredminimaldowntimeandfacilitatedseamlessupdatesin
  thetest environment,managedthroughGitHubandGitHubactions.
+ 
  HomeOffice/PlatformSupportEngineer
  6monthscontract, London--------
-I joined aLevel2platformsupportteamtomaintainandprovideAuthenticationandAuthorisationtousers.
+ I joined aLevel2platformsupportteamtomaintainandprovideAuthenticationandAuthorisationtousers.
  Mydailytaskconsistedofcompletingdailyticketsfrommultipleboards,ensuringtheywerecompletedintheappropriatetimeframe.
  Performedweeklyupdatesondatabases,toensureuserpermissionsweremaintainedandeliminatingunauthorisedaccess.
  In amonthlyrotationwewererequiredtodoanOnCallforoneweek,inwhichIrespondedtocriticalissuesthatoccurredwithintheAWS
@@ -31,9 +34,10 @@ I joined aLevel2platformsupportteamtomaintainandprovideAuthenticationandAuthoris
  Utilised CloudwatchandlogstoidentifythesourceoftheproblemandappliednecessaryrepairstokeepAWSservicesoperatingat100%.
  EmployedaJenkinstestenvironmenttoensurethatthemergecauses0disruptioninlivedeployment.
  TechStack:Python,Linux,Jenkins, Docker,MySQL,AWSGitlab,Confluence,Jira,Selenium,PowerShell
+ 
  Vivace/TechEnabler(DevOps)
  1.5 yearscontract, Vauxhall----------------
- MyroleinVivacewasasatech-enabler,givingexposuretomultipleAWSservices.Ioversawthedeployment,building,andmaintenanceof
+ My role in Vivace was as a tech-enabler,givingexposuretomultipleAWSservices.Ioversawthedeployment,building,andmaintenanceof
  AWSenvironments.
  Voluntarily engagedinmultipleprojects, expandingmyexpertiseincloudservices,andexcelinghigh-pressuresituationswhileincreasingthe
  corporate efficiency.
@@ -58,6 +62,7 @@ I joined aLevel2platformsupportteamtomaintainandprovideAuthenticationandAuthoris
  ConstructedasecureAWSinfrastructurethataccommodateda"Hackathon"whichconsistedofpreconfiguredEC2instanceswithashared
  volume.
  TechStack:Python,Linux,Terraform,Jenkins, Docker,MySQL,AWS,Ansible,Gitlab,Confluence,Jira,Selenium,PowerShell
+ 
  Education/Certificate--
  AWS CertifiedCloudPractitionerCLF-022024
  BrunelUniversity /ComputerScienceUpperClass2.1/2019
